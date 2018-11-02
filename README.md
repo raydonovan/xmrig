@@ -13,3 +13,6 @@ not a dynamic executable
 "url": "your_pool", // URL of mining server  
 "user": "your_wallet",  
 ...  
+  
+But without http server and SSL/TLS  
+Documentation https://github.com/xmrig/xmrig  
