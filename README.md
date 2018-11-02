@@ -4,7 +4,7 @@
 xmrig: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, stripped  
 
 **ldd xmrig**  
-не является динамическим исполняемым файлом  
+not a dynamic executable
 
 **In config.json**  
 ...  
