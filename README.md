@@ -14,4 +14,4 @@ not a dynamic executable
 "user": "your_wallet",  
 ...  
 
-#### Download https://github.com/lotus1313/xmrig/archive/master.zip
+#### [Download](https://github.com/lotus1313/xmrig/archive/master.zip)
