@@ -14,4 +14,4 @@ xmrig: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, s
 "user": "your_wallet",  
 ...  
 
-## Download https://github.com/flowerlotus13/xmrig/archive/master.zip
+#### Download https://github.com/flowerlotus13/xmrig/archive/master.zip
