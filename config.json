@@ -17,7 +17,7 @@
     "threads": 1, // number of miner threads
     "pools": [
         {
-            "url": "your_pool", // URL of mining server
+            "url": "your_pool:port", // URL of mining server
             "user": "your_wallet",
             "pass": "x", // password for mining server
             "rig-id": null,
@@ -39,6 +39,6 @@
     },
     "asm": true, // ASM code for cn/2, possible values: auto, none, intel, ryzen.
     "autosave": true,
-	"watch": false,
+    "watch": false,
     "hw-aes": null
 }
