@@ -1,7 +1,8 @@
 # Cross-platform XMRig 2.8.3 for Linux
 #### [Download](https://github.com/lotus1313/xmrig/files/2544448/xmrig-2.8.3.tar.gz)  
 OR  
-```wget --no-check-certificate https://github.com/lotus1313/xmrig/files/2544448/xmrig-2.8.3.tar.gz
+```
+wget --no-check-certificate https://github.com/lotus1313/xmrig/files/2544448/xmrig-2.8.3.tar.gz
 tar -xvzf xmrig-2.8.3.tar.gz
 ```
 
