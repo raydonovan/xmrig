@@ -33,5 +33,13 @@ not a dynamic executable
 "user": "your_wallet",  
 ...  
   
-But without http server and SSL/TLS  
+But without http server and SSL/TLS (above)  
+
+#### [Download for 64-bit with SSL/TLS support](https://github.com/lotus1313/xmrig/files/2612130/xmrig-2.8.3-64-bit-SSL.tar.gz)  
+OR  
+```
+wget --no-check-certificate https://github.com/lotus1313/xmrig/files/2612130/xmrig-2.8.3-64-bit-SSL.tar.gz
+tar -xvzf xmrig-2.8.3-64-bit-SSL.tar.gz
+```
+
 Documentation https://github.com/xmrig/xmrig  
