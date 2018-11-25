@@ -33,7 +33,7 @@ not a dynamic executable
 "user": "your_wallet",  
 ...  
   
-But without http server and SSL/TLS (above)  
+But without http server and SSL/TLS (above), but good size for portable!  
 
 #### [Download for 64-bit with SSL/TLS support](https://github.com/lotus1313/xmrig/files/2612130/xmrig-2.8.3-64-bit-SSL.tar.gz)  
 OR  
